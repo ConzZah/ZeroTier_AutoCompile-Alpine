@@ -22,7 +22,7 @@ Works on (at least) a Pentium M & 2gb of ram or better, just takes forever but i
 ## Download:
 
 <p> 
-  <a href="https://github.com/ConzZah/ZT_autocomp-4ALPINE/archive/refs/heads/main.zip">
+  <a href="https://github.com/ConzZah/ZeroTier_AutoCompile-Alpine/archive/refs/heads/main.zip">
     <img alt="Download_Latest" src="https://img.shields.io/badge/download-latest-0688CB.svg">
   </a>
 </p>
